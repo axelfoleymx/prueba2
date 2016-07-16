@@ -8,15 +8,16 @@
 for (i = 0; i <=10; i++){ 
 	$(".uno").click(function(){
 
-		$("ul").html(+'<li> 6</li>');
+		$("li.num").html(+'<li> 6</li>');
 	});
 	
 };
 
 for (i = 0; i <=10; i++){ 
+
 	$(".dos").click(function(){
 
-		$("ul").html(-'<li> 6</li>');
+		ul.removeChild(li)
 	});
 	
 };
