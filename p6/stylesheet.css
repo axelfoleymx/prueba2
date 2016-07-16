@@ -1,17 +1,11 @@
 .uno{
-	border-width: 1px;
-	border-style: solid;
-	border-color: black;
+
 	background-color: green;
-	width: 10%;
-	height: 20px;
+
 }
 
 .dos{
-	border-width: 1px;
-	border-style: solid;
-	border-color: black;
-	background-color: blue;
-	width: 10%;
-	height: 20px;
+
+	background-color: red;
+
 }
