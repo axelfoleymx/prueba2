@@ -1,10 +1,15 @@
-var	suma	= 0;
+var valor1;
+var valor2;
 
+
+valor1 =prompt("Ingresa Numero");
+valor2 =prompt("Ingresa Numero");
 
 do{
 
+suma= parseInt(valor1 +valor2);
 
-var	ingreso	= prompt("ingresa	un	número");
+document.write(suma);
 
 
 }
